@@ -67,11 +67,18 @@ Temporary Items
 /CMakeLists.txt
 /.ue4dependencies
 
-#iki
-/Binaries/**
-/Build/**
-/Intermediate/**
-/Saved/**
+#GoldenEgg
+/GoldenEgg/Binaries/**
+/GoldenEgg/Build/**
+/GoldenEgg/Intermediate/**
+/GoldenEgg/Saved/**
+
+
+#Puzzle
+/Puzzle/Binaries/**
+/Puzzle/Build/**
+/Puzzle/Intermediate/**
+/Puzzle/Saved/**
 
 # Derived data cache is never checked in
 /Engine/DerivedDataCache/**
