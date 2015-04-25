@@ -72,13 +72,14 @@ Temporary Items
 /GoldenEgg/Build/**
 /GoldenEgg/Intermediate/**
 /GoldenEgg/Saved/**
-
+/GoldenEgg/Content/**
 
 #Puzzle
 /Puzzle/Binaries/**
 /Puzzle/Build/**
 /Puzzle/Intermediate/**
 /Puzzle/Saved/**
+/Puzzle/Content/**
 
 # Derived data cache is never checked in
 /Engine/DerivedDataCache/**
